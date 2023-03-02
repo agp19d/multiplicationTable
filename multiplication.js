@@ -10,5 +10,5 @@ function multiplicationTable(num) {
   }
 }
 
-// Testing the function with the multiplication table of 10
-multiplicationTable(10);
+// Testing the function with the multiplication table of 5
+multiplicationTable(5);
